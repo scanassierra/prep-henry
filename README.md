@@ -1,2 +1,1 @@
-# prep-henry
-este es un repositorio de prueba del prepcours de henry 2
+esta es una forma de clonar en el computador 
