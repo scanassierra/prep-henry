@@ -1,2 +1,2 @@
 # prep-henry
-este es un reportorio de prueba del prepcours de henry 2
+este es un repositorio de prueba del prepcours de henry 2
